@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/todo"
 summary: Personal task manager with projects, subtasks, dates, priorities, labels, repeats, reminders, list/kanban/calendar views, filters, quick add, import and export.
 license: CC-BY-4.0
+tags: [personal, productivity]
 requires:
   "@specfork/auth": "^0.3.0"
   "@specfork/notifications": "^0.1.0"
